@@ -2,9 +2,9 @@
 
 This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). 
 
-[Challange design]![image](https://github.com/kamil-piskorski/FM-rating-component/assets/129585834/7432dae1-0714-4213-a85e-1e5322216415)
+[Challange design]![image](/design/desktop-design.jpg)
 
-[Challange design 2]![image](https://github.com/kamil-piskorski/FM-rating-component/assets/129585834/86172927-cd2c-4e77-918e-c4e1fb82dc65)
+[Challange design 2]![image](/design/desktop-thank-you-state.jpg)
 
 
 📝Brief
@@ -20,7 +20,7 @@ See hover and focus states for all interactive elements on the page
 Download the project and go through the README.md file. This will provide further details about the project and help you get set up.
 
 # Solution screen #1
-![image](https://github.com/kamil-piskorski/FM-rating-component/assets/129585834/278437ce-6da6-4439-880d-a660d46d9126)
+![image](/images/solution1.jpg)
 
 # Solution screen #2
-![image](https://github.com/kamil-piskorski/FM-rating-component/assets/129585834/aa818b3e-77dc-4e07-974f-ef26197180ee)
+![image](/images/solution2.jpg)
