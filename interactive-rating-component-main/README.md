@@ -2,7 +2,7 @@
 
 This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). 
 
-[Challange design]![image](https://github.com/kamil-piskorski/FM-rating-component/assets/129585834/7432dae1-0714-4213-a85e-1e5322216415)
+[Challange design]![image](../design/desktop-design.jpg)
 
 [Challange design 2]![image](https://github.com/kamil-piskorski/FM-rating-component/assets/129585834/86172927-cd2c-4e77-918e-c4e1fb82dc65)
 
